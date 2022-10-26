@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Eu sou o Felipe Nunes <strong>Dev BackEnd Python</strong>.<br>
+  Atualmente sou coordenador de TI de uma administradora de benefícios, estudante da linguagem de programação Python busco me especializar na area de análise de dados e integrações com chatbots.
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Análise de Dados, BI, WEB.</strong>
+  💼 Ferramentas: <strong>Análise de Dados com Pandas, numpy. Desenvolvimento WEB com Flask, Django.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira falar sobre os meus projetos ou novos projetos abaixo estão os meus contatos: ⤵️
 </p>
 
 <p align="left">
