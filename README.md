@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira falar sobre os meus projetos ou novos projetos abaixo estão os meus contatos: ⤵️
+  💌 Caso queira comentar sobre os meus projetos ou conversar sobre novos projetos abaixo estão os meus contatos: ⤵️
 </p>
 
 <p align="left">
